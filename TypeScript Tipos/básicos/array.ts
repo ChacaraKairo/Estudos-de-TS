@@ -1,4 +1,5 @@
 // Array
+
 const hobbies: string[] = [
   "Cozinhar",
   "Futebol",
