@@ -13,3 +13,11 @@ if (concuido) {
 } else {
   console.log('Você ainda não concluiu a tarefa!');
 }
+// enum Cores {
+//   'vermelho',
+//   'azul',
+//   'amarelo',
+//   'branco',
+//   'preto',
+// }
+// console.log(Cores);
